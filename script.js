@@ -7,5 +7,6 @@ function openWin(){
   }
 
   function change() {
-    document.getElementById("text").innerHTML = "Y que haces aca entonces? anda se libre"
+    document.getElementById("text").innerHTML = "Y que haces aca entonces? anda, se libre";
+    document.getElementById("imag").src = "red0\confused.jpg"
   }
